@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "luxcore-lib": "^0.13.22",
-    "luxcore-message": "^1.0.5",
+    "luxcore-lib": "https://github.com/heidi-dang/luxcore-lib#master",
+    "luxcore-message": "https://github.com/heidi-dang/luxcore-message#maste",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
